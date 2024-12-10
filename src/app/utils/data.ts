@@ -82,7 +82,7 @@ export const listNews: ListNews[] = [
       "lifestyle",
       "celebrity",
       "bola",
-      "techno",
+      "health",
     ],
   },
   {
@@ -185,18 +185,7 @@ export const listNews: ListNews[] = [
   },
   {
     news: "Suara News",
-    types: [
-      "news",
-      "bisnis",
-      "lifestyle",
-      "entertainment",
-      "otomotif",
-      "tekno",
-      "health",
-      "mostpopular",
-      "wawancara",
-      "pressrelease",
-    ],
+    types: ["sehat"],
   },
   {
     news: "Voa News",

@@ -4,7 +4,7 @@ import { Item } from "rss-parser";
 
 export async function GET(request: NextRequest) {
   try {
-    const SUARA_NEWS_RSS = "https://www.suara.com/rss/";
+    const SUARA_NEWS_RSS = "https://www.merdeka.com/rss/";
     const url = new URL(request.url);
     const searchParams = url.searchParams.get("search");
     const result = await parseRSS({

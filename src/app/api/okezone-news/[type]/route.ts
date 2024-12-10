@@ -18,7 +18,7 @@ type ParamsOkezone = {
   lifestyle: string;
   celebrity: string;
   bola: string;
-  techno: string;
+  health: string;
 };
 
 export async function GET(
@@ -34,7 +34,7 @@ export async function GET(
       lifestyle: "https://sindikasi.okezone.com/index.php/rss/12/RSS2.0",
       celebrity: "https://sindikasi.okezone.com/index.php/rss/13/RSS2.0",
       bola: "https://sindikasi.okezone.com/index.php/rss/14/RSS2.0",
-      techno: "https://sindikasi.okezone.com/index.php/rss/16/RSS2.0",
+      health: "https://sindikasi.okezone.com/index.php/rss/15/RSS2.0",
     };
 
     const url = new URL(request.url);

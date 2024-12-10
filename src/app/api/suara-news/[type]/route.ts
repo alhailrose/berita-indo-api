@@ -15,7 +15,7 @@ export async function GET(
   { params }: { params: { type: string } }
 ) {
   try {
-    const SUARA_NEWS_RSS = "https://www.suara.com/rss/{type}";
+    const SUARA_NEWS_RSS = "https://www.merdeka.com/rss/{type}";
 
     const url = new URL(request.url);
     const searchParams = url.searchParams.get("search");

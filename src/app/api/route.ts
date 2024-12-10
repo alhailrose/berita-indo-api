@@ -89,7 +89,7 @@ export async function GET() {
           "lifestyle",
           "celebrity",
           "bola",
-          "techno",
+          "health",
         ],
       },
       "BBC News": {
@@ -201,19 +201,8 @@ export async function GET() {
         all: "/api/vice-news",
       },
       "Suara News": {
-        all: "/api/suara-news",
-        listType: [
-          "news",
-          "bisnis",
-          "lifestyle",
-          "entertainment",
-          "otomotif",
-          "tekno",
-          "health",
-          "mostpopular",
-          "wawancara",
-          "pressrelease",
-        ],
+        all: "/api/merdeka-news",
+        listType: ["sehat"],
       },
       "VOA Indonesia": {
         all: "/api/voa-news",
