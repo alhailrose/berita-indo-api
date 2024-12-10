@@ -1,0 +1,78 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "satyawikananda",
+      "name": "I Gusti Ngurah Satya Wikananda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33148052?v=4",
+      "profile": "https://satyawikananda.vercel.app",
+      "contributions": [
+        "code",
+        "maintenance",
+        "bug",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "galanggg",
+      "name": "Galanggg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21099312?v=4",
+      "profile": "https://github.com/galanggg",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "axmad386",
+      "name": "Akhmad Salafudin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8775678?v=4",
+      "profile": "https://github.com/axmad386",
+      "contributions": [
+        "code",
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "nekoding",
+      "name": "Enggar Tivandi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64598048?v=4",
+      "profile": "https://kirintux.ninja/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danarn17",
+      "name": "Danar Noverawan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39963063?v=4",
+      "profile": "https://www.linkedin.com/in/danar-noverawan-58a850184",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "indrapalijama",
+      "name": "Indra Palijama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33986004?v=4",
+      "profile": "http://indrapalijama.github.io",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "berita-indo-api",
+  "projectOwner": "satyawikananda",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
